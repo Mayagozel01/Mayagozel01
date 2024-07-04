@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maya</h1>
 <h3 align="center">A passionate frontend developer from Turkmenistan</h3>
 
-- 🌱 I’m currently learning **javascript advanced from udemy course**
+- 🌱 I’m currently learning **advanced javascript from udemy course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayagozel01/](https://github.com/Mayagozel01/)
 
