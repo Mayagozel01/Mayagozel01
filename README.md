@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1bahGocceapLMEDkznqBhoA-5ap6HvKfh?usp=sharing](https://drive.google.com/drive/folders/1bahGocceapLMEDkznqBhoA-5ap6HvKfh?usp=sharing)
 
-- ⚡ Fun fact **i think i am funny**
+- ⚡ Fun fact **i think i feel happy when i am coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
