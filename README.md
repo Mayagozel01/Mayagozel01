@@ -7,9 +7,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mayagozeljumakulyyewa55](https://medium.com/@mayagozeljumakulyyewa55)
 
-- 💬 Ask me about **react, sass, js, pascal**
+- 💬 Ask me about **react, sass, js, pascal, ts, react vite**
 
-- 📫 How to reach me **mayaprogammer16@gmail.com**
+- 📫 How to reach me **mayagozeljumakulyyewa55@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/103lsrsw_um1T6yXahcp5f04X6R8PepUw/view?usp=drive_link]
 - ⚡ Fun fact **i think i feel happy when i am coding**
