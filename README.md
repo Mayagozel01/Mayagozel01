@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mayagozel01/](https://github.com/Mayagozel01/)
 
 - 📝 I regularly write articles on [https://medium.com/@mayagozeljumakulyyewa55]
-- 💬 Ask me about **react, sass, js, pascal, ts, react vite**
+- 💬 Ask me about **react, sass, js, pascal, ts, react vite, php, laravel**
 
 - 📫 How to reach me **mayagozeljumakulyyewa55@gmail.com**
 
