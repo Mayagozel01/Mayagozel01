@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maya</h1>
-<h3 align="center">A passionate frontend developer from Turkmenistan</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently creating **Laravell projects**
 
