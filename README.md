@@ -1,25 +1,173 @@
-<h1 align="center">Hi 👋, I'm Maya</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h1 align="center">Hey, I'm Maya 👋</h1>
 
-- 🌱 I’m currently creating **Laravell projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mayagozel01/](https://github.com/Mayagozel01/)
-
-- 📝 I regularly write articles on [https://medium.com/@mayagozeljumakulyyewa55]
-- 💬 Ask me about **react, sass, js, pascal, ts, react vite, php, laravel**
-
-- 📫 How to reach me **mayagozeljumakulyyewa55@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/103lsrsw_um1T6yXahcp5f04X6R8PepUw/view?usp=drive_link]
-- ⚡ Fun fact **i think i feel happy when i am coding**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codesandbox.com/mayagozel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mayagozel01" height="30" width="40" /></a>
-<a href="https://instagram.com/mminam2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mminam2022" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/minam2309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/minam2309/" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full-Stack Developer • Laravel • React • TypeScript</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Mayagozel01">
+    <img src="https://img.shields.io/github/followers/Mayagozel01?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Mayagozel01">
+    <img src="https://img.shields.io/github/stars/Mayagozel01?label=Stars&style=for-the-badge" />
+  </a>
+</p>
 
+---
+
+### 👩‍💻 About Me
+
+I'm a passionate **Full-Stack Developer** who enjoys turning ideas into useful and beautiful applications.
+
+🌱 Currently building **Laravel projects** and improving my backend & DevOps skills.
+
+💻 I enjoy working with **React, TypeScript, PHP and Laravel**.
+
+🐳 Currently learning and using **Docker** for development and deployment.
+
+🧠 I love learning new technologies and solving programming problems.
+
+⚡ **Fun fact:** I think I feel happy when I'm coding.
+
+---
+
+### 🚀 What I'm Working With
+
+#### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,sass" />
+</p>
+
+#### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,express" />
+</p>
+
+#### 🐳 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,mysql,postman,linux" />
+</p>
+
+#### 🎯 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+```text
+Frontend       React • TypeScript • JavaScript • Vite • Sass • HTML • CSS
+
+Backend        PHP • Laravel • Python • Django • Node.js • Express
+
+Database       MySQL
+
+DevOps         Docker • Docker Compose • Linux
+
+Tools          Git • GitHub • Postman • Figma
+
+Other          REST API • PWA • WebGL • Accessibility
+```
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Mayagozel01">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayagozel01&repo=online_order_organization&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+> 🚧 More projects are constantly being built and improved.
+
+**All projects:**
+👉 [github.com/Mayagozel01](https://github.com/Mayagozel01)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayagozel01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayagozel01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayagozel01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧩 Currently Learning
+
+```text
+Laravel Testing
+Docker & Docker Compose
+REST API Architecture
+TypeScript
+Backend Architecture
+CI/CD
+System Design
+```
+
+---
+
+### ✍️ Writing
+
+I occasionally write about programming, development and things I'm learning.
+
+📝 **Medium:**
+[medium.com/@mayagozeljumakulyyewa55](https://medium.com/@mayagozeljumakulyyewa55)
+
+---
+
+### 🧠 Problem Solving
+
+<p>
+  <a href="https://leetcode.com/u/minam2309/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://codesandbox.com/mayagozel01">
+    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/mminam2022">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/minam2309/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+📫 **Email:** `mayagozeljumakulyyewa55@gmail.com`
+
+📄 **Resume:**
+[View my experience](https://drive.google.com/file/d/103lsrsw_um1T6yXahcp5f04X6R8PepUw/view?usp=drive_link)
+
+---
+
+<p align="center">
+  <i>💻 Building things. Learning constantly. Enjoying the process.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting in my projects, feel free to explore!
+</p>
