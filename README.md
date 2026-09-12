@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Maya 👋</h1>
+<!-- <h1 align="center">Hey, I'm Maya 👋</h1>
 
 <p align="center">
   <strong>Full-Stack Developer • Laravel • React • TypeScript</strong>
@@ -170,4 +170,7 @@ I occasionally write about programming, development and things I'm learning.
 
 <p align="center">
   ⭐ If you find something interesting in my projects, feel free to explore!
+</p> -->
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Maya - Full Stack Developer">
 </p>
