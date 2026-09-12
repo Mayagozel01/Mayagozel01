@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./maya_github_banner.png" width="100%" alt="Maya — Full-Stack Developer">
+  <img src="./maya_github_banner" width="100%" alt="Maya — Full-Stack Developer">
 </p>
 
 <h2 align="center">Hey, I'm Maya 👋</h2>
